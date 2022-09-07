@@ -1,0 +1,5 @@
+/Users/princeahmed/Desktop/source_codes/ring_attractor/build/out/CMakeFiles/edit_cache.dir
+/Users/princeahmed/Desktop/source_codes/ring_attractor/build/out/CMakeFiles/rebuild_cache.dir
+/Users/princeahmed/Desktop/source_codes/ring_attractor/build/out/src/CMakeFiles/simuself.dir
+/Users/princeahmed/Desktop/source_codes/ring_attractor/build/out/src/CMakeFiles/edit_cache.dir
+/Users/princeahmed/Desktop/source_codes/ring_attractor/build/out/src/CMakeFiles/rebuild_cache.dir
