@@ -1,5 +1,5 @@
 # ring-attractor-model
-Engineered ring attractor models and demonstrated that a locally connected network of neurons is used in Drosophila melanogaster’s Ellipsoid Body to represent flying direction.
+Engineered ring attractor models and demonstrated that a locally connected network of neurons is used in Drosophila melanogaster’s Ellipsoid Body to represent flying direction. Verified claims of [theoretical neuroscience paper.](https://doi.org/10.1126/science.aal4835)
 
 ## Jump vs Flow space
 ![space of inputs](./img/space.png)
