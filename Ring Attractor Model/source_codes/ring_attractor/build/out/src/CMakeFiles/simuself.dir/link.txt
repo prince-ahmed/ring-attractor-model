@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++ -isystem /usr/local/include -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/simuself.dir/para_sweep.cpp.o CMakeFiles/simuself.dir/dyna.cpp.o -o simuself  /usr/local/lib/libgsl.dylib /usr/local/lib/libgslcblas.dylib /usr/local/lib/libfftw3.dylib 
