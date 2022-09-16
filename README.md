@@ -15,7 +15,7 @@ Engineered ring attractor models and demonstrated that a locally connected netwo
 ![global model jump](./img/jump_global.png)
 
 
-## Conclusions
+## Findings
 Bump is only influenced by visual cues
 Bump is unique via global competition
 Bump is persistent, continuous, and updatable
@@ -25,7 +25,14 @@ Network uses local connectivity pattern
 Started project by modelling single neurons through the Hodgkin-Huxley mathematical description. 
 ![Hodgkin-Huxley](./img/HH-I10.jpg)
 
-
-
-
+## From Single Neuron to Network
 Used information theory concepts to evaluate different abstractions and approximations to enable computation of more complex process such as stochastic inputs, dynamics of neural networks with excitatory \& inhibitory neurons, synapse plasticity, and learning.
+![Krinsky-Kokoz](./img/KK-I10.png)
+![Botera normal](./img/Botera\ for\ 10s\ vl=-60mV.png)
+![Botera reduced](./img/Botera reduced for 10s vl=-60mV.png)
+![Butera nullcline](./img/Botera nullcline best 50s vl=-60mV.png)
+
+![Excitatory-Inhibitory network ](./img/nullclines.png)
+
+Excitatory-Inhibitory network
+
