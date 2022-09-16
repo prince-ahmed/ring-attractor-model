@@ -28,9 +28,6 @@ Started project by modelling single neurons through the Hodgkin-Huxley mathemati
 ## From Single Neuron to Network
 Used information theory concepts to evaluate different abstractions and approximations to enable computation of more complex process such as stochastic inputs, dynamics of neural networks with excitatory \& inhibitory neurons, synapse plasticity, and learning.
 ![Krinsky-Kokoz](./img/KK-I10.png)
-![Botera normal](./img/Botera\ for\ 10s\ vl=-60mV.png)
-![Botera reduced](./img/Botera reduced for 10s vl=-60mV.png)
-![Butera nullcline](./img/Botera nullcline best 50s vl=-60mV.png)
 
 ![Excitatory-Inhibitory network ](./img/nullclines.png)
 
